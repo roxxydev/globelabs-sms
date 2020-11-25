@@ -1,0 +1,11 @@
+{
+  "name": "globelabs-sms",
+  "version": "0.0.1",
+  "description": "Globe SMS API client based on https://www.globelabs.com.ph/docs/#sms",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.21.x"
+  }
+}
